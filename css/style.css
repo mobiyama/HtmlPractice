@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.monster {
+    color: white;
+    font-family: "Comic Sans MS";
+    transition: all 500ms 0s ease;
+    font-size: 100px;
+}
+
+.monster:hover {
+    font-size: 300px;
+    color: rgb(19, 235, 37);
+}
+
+.mimg {
+    display: none;
+}
+
+.text {
+    color: white;
+    font-size: 100px;
+}
